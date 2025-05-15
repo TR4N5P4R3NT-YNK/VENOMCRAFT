@@ -15,9 +15,3 @@ cd VenomCraft
 chmod +x install.sh
 ./install.sh
 
-
----
-#JOIN MY FORUM
-
-```bash
-https://webyonko.onrender.com
