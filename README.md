@@ -10,7 +10,7 @@ Created by TR4N5P4R3NT for ethical use only.
 For Termux or Linux:
 
 ```bash
-git clone https://github.com/YourUsername/VenomCraft.git
+git clone https://github.com/TR4N5P4R3NT-YNK/VENOMCRAFT
 cd VenomCraft
 chmod +x install.sh
 ./install.sh
